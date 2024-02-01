@@ -1,0 +1,14 @@
+{
+  "name": "htmx-templ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "tailwindcss -o css/styles.css --minify"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
